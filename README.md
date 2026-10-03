@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of issyrocks12/flarum-ext-users-list.** Not for installation: use [Packagist](https://packagist.org/packages/issyrocks12/flarum-ext-users-list) or the [upstream repository](https://github.com/issyrocks12/flarum-ext-users-list).
 
-**0** versions archived · Latest: [`0.2.2.1`](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**8** versions archived · Latest: [`0.2.2.1`](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2.2.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-08-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-09-16 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.1.1) |
+| `0.1.3` | 2017-02-27 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.1.3) |
+| `0.1.4` | 2017-02-27 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.1.4) |
+| `0.2` | 2017-03-01 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2) |
+| `0.2.1` | 2017-03-02 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2.1) |
+| `0.2.2` | 2017-03-03 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2.2) |
+| `0.2.2.1` | 2017-03-03 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/issyrocks12-flarum-ext-users-list/tree/archive/v0.2.2.1) |
 
 Catalog entry: [packages/issyrocks12-flarum-ext-users-list.json](https://github.com/flarchive/archive-index/blob/main/packages/issyrocks12-flarum-ext-users-list.json)
 
